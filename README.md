@@ -53,3 +53,9 @@ Work In Progress. The current version focuses heavily on achieving complex funct
 * Framer Motion (Orchestrated animations)
 * Tailwind CSS (Modern styling)
 * Lucide React (Consistent iconography)
+
+# 📊 Animated Analytics Dashboard
+
+> A high-end interactive dashboard focused on data visualization techniques and seamless motion choreography.
+
+[🚀 Live Demo] https://boshra-animated-dashboard.netlify.app/ | [📁 Repository](رابط_المستودع_نفسه)
