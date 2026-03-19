@@ -58,4 +58,4 @@ Work In Progress. The current version focuses heavily on achieving complex funct
 
 > A high-end interactive dashboard focused on data visualization techniques and seamless motion choreography.
 
-[🚀 Live Demo] https://boshra-animated-dashboard.netlify.app/ | [📁 Repository](رابط_المستودع_نفسه)
+[🚀 Live Demo] https://boshra-animated-dashboard.netlify.app/ | [📁 Repository] https://github.com/boshra-dev/animated-dashboard-pro
