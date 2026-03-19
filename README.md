@@ -37,3 +37,19 @@ The dashboard is optimized for various screen sizes to maintain a clean UI:
 
 Work In Progress. The current version focuses heavily on achieving complex functionality, math logic (for the HeatMap), and the animation choreography in a record time. 
 *Note to reviewers:* The codebase is currently being prepared for refactoring. Upcoming updates will focus on separating components further, cleaning up the logic, and adhering to strict Clean Code best practices.
+
+## Demo
+<div align="center">
+  <h3>🎬 Interactive Demo</h3>
+  <video src="https://github.com/user-attachments/assets/650c605b-40cb-4109-b3b0-49b9990f9477" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+### 🛠️ Built With
+* React.js (Vite)
+* Visx (High-performance SVG charts)
+* Framer Motion (Orchestrated animations)
+* Tailwind CSS (Modern styling)
+* Lucide React (Consistent iconography)
